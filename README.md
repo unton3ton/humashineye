@@ -1,3 +1,15 @@
+## Классификатор фотоизображений АФ глазного дна по типам:
+
+* норма  
+* минимальные изменения  
+* фокальное усиление  
+* пятнистый патологический паттерн  
+* линейный  
+* крапчатый  
+* сетчатый  
+* кружевоподобный.
+
+
 ![](https://raw.githubusercontent.com/Antoniii/humashineye/main/numpy-grayscale-image.jpg)
 
 ![](https://raw.githubusercontent.com/Antoniii/humashineye/main/norma1.jpg)
