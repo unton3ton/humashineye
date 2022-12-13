@@ -1,2 +1,41 @@
-# humashineye
-ненейросетевой перцептивногистограммный (пигментный) классификатор фотоизображений патологий глазного дна
+![](https://raw.githubusercontent.com/Antoniii/humashineye/main/numpy-grayscale-image.jpg)
+
+![](https://raw.githubusercontent.com/Antoniii/humashineye/main/norma1.jpg)
+
+![](https://raw.githubusercontent.com/Antoniii/humashineye/main/blur%20histograms%20for%20norma1%20%26%20norma_mirror.png)
+
+
+## Sources
+
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
