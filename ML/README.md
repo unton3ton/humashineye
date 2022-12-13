@@ -70,6 +70,7 @@ CL - Collateral
 * [Классификация изображений](https://www.tensorflow.org/tutorials/images/classification)
 * [Python | Image Classification using Keras](https://translated.turbopages.org/proxy_u/en-ru.ru.e84f6d22-63835e72-24d21b6a-74722d776562/https/www.geeksforgeeks.org/python-image-classification-using-keras/)
 * [Image Classification using Keras](https://www.geeksforgeeks.org/python-image-classification-using-keras/)
+* [Глубокое обучение. Погружение в мир нейронных сетей. Николенко С., Кадурин А., Архангельская Е.](https://t.me/code_archive/1028)
 
 
 ## Another sources
@@ -83,10 +84,6 @@ CL - Collateral
 * [Что такое Fine Tuning или как дообучить обученную сеть TensorFlow](https://python-school.ru/blog/fine-tuning/)
 * [Способы сохранения и загрузки моделей в Keras | Tensorflow 2 ](https://proproprogs.ru/tensorflow/keras-sposoby-sohraneniya-i-zagruzki-modeley-v-keras?ysclid=lb21ubwxvb269306210)
 * [VGG Image Annotator](https://www.robots.ox.ac.uk/~vgg/software/via/via.html)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Распознавание изображений на Python с помощью TensorFlow и Keras](https://evileg.com/ru/post/619/)
+* [Строим Нейронную Сеть для Распознавания Изображений за 20 минут](https://youtu.be/8mkh4uGxNfo)
+* [Ярышев С.Н., Рыжова В.А., Технологии глубокого обучения и нейронных сетей в задачах видеоанализа – СПб: Университет ИТМО, 2022. – 82 с.](https://books.ifmo.ru/file/pdf/3110.pdf)
