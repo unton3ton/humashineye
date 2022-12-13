@@ -11,3 +11,8 @@ The hash of result (dif-img) is: c9b790c77c3e6b8c7f5b948977a5c658fc680c751746333
 ![](https://raw.githubusercontent.com/Antoniii/humashineye/main/Naive/Figure_1.png)
 
 ![](https://raw.githubusercontent.com/Antoniii/humashineye/main/Naive/Figure_2.png)
+
+# Sources
+
+* [Применение функций OpenCV в компьютерном зрении (60 примеров на Python). Автор: Молодяков С.А. (стр. 83)](https://t.me/arch_prog/2108)
+* [Изучите блокчейн, создав свой: краткий путь к пониманию криптовалют. Автор: Ван Флаймен Дэниэл (стр. 36)](https://t.me/arch_prog/1723)
